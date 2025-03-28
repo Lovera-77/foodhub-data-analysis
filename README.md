@@ -91,7 +91,4 @@ The FoodHub analysis uncovers important patterns in customer behavior, delivery 
 - Visualization (`matplotlib`, `seaborn`)
 - Jupyter Notebook (VS Code)
 
----
-
-## 📁 File Structure
 
